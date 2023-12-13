@@ -1,0 +1,14 @@
+{
+  "firstnameText": "inaam",
+  "lastnameText": "Ullah",
+  "InCorrectUsernameText": "standard_user11",
+  "CorrectPassword": "secret_sauce",
+  "InCorrectPassword": "secret_sauce11",
+  "Text": "Swag Labs",
+  "URL": "https://www.saucedemo.com",
+  "timeout": 10,
+  "Browser": "chrome",
+  "chrome_driver_path": "C:/Program Files/Google/Chrome/chromedriver-win64/chromedriver-win64/chromedriver.exe",
+  "openai.api_key": "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"
+
+}
